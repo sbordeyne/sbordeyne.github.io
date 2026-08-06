@@ -27,5 +27,5 @@ _.python.venv = { path = ".venv", create = true }
   run = "properdocs serve"
 
 [tasks."docs:deploy"]
-  description = "Deploy documentation"
-  run = "properdocs gh-deploy --config-file properdocs.yaml --force"
+  description = "Deploy documentation to GitHub Pages"
+  run = "properdocs gh-deploy --force --config-file properdocs.yaml"

@@ -22,5 +22,4 @@ jobs:
           install: true
 
       - name: Deploy docs
-        run: |
-          mise docs:deploy
+        run: mise docs:deploy
