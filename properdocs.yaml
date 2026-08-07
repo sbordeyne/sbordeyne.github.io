@@ -1,6 +1,6 @@
 site_name: Blog
 repo_url: https://github.com/sbordeyne/sbordeyne.github.io
-docs_dir: site
+docs_dir: website
 
 theme:
   name: material
