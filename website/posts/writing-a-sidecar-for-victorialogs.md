@@ -4,6 +4,9 @@ tags:
   - observability
   - SRE
 date: 2026-08-06
+categories:
+  - Project
+  - Tech
 ---
 # Writing a sidecar for VictoriaLogs
 

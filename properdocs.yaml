@@ -39,6 +39,7 @@ plugins:
       pagination_per_page: 10
       archive: true
       categories: true
+      categories_name: Categories
   - tags  # also built-in to Material
   - rss:  # mkdocs-rss-plugin
       match_path: posts/.*
